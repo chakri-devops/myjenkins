@@ -6,5 +6,4 @@ Data added in code
 print("Hello, World!")
 print("Hello, World!")
 
-
-mmm
+# this is python code given
