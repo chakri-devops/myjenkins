@@ -3,3 +3,4 @@ num2 = 5
 sum_result = num1 + num2
 print(f"The sum of {num1} and {num2} is: {sum_result}")
 Data added in code
+print("Hello, World!")
